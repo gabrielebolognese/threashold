@@ -8,7 +8,7 @@ A placeholder repository for a planned app to help reach a monetization plan thr
 
 ## What it does
 
-Nothing yet. The repository contains a single commit ("Initial commit") with this README and no source code, manifest, configuration or build files.
+Nothing yet. The repository contains only this README, first added in the "Initial commit": no source code, manifest, configuration or build files.
 
 ## Getting started
 
